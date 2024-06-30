@@ -12,5 +12,5 @@ function number(n) {
     }
   return 'You Entered:' +n; 
 }
-const myNumber = number();
+const myNumber = number(50);
 console.log(myNumber)
