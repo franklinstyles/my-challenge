@@ -12,3 +12,8 @@ NET SALARY CALCULATOR
 third.js
 
 this is a program that calculates the net salary of person .when you place your basesalary the program will calculate your netsalary.
+
+ACCESSING THE PROGRAMS
+use this url:
+https://github.com/franklinstyles/my-challenge
+you can go to your terminal and clone it and you can access it on your vs code.
