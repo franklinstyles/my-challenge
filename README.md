@@ -17,3 +17,5 @@ ACCESSING THE PROGRAMS
 use this url:
 https://github.com/franklinstyles/my-challenge
 you can go to your terminal and clone it and you can access it on your vs code.
+
+BY:Franlin Ndegwa/
