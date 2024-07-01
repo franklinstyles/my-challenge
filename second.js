@@ -19,7 +19,7 @@ function number(n) {
     console.log ('you have:8 points');
    }else if (n<=115) {
     console.log ('you have:9 points');
-   }else if (n<120) {
+   }else if (n<=120) {
     console.log ('you have:10 points');
    }else if (n<=125) {
     console.log ('you have:11 points');
@@ -30,5 +30,5 @@ function number(n) {
    }
    return 'You Entered:' +n
 }
-const myNumber = number(50);
+const myNumber = number(120);
 console.log(myNumber)

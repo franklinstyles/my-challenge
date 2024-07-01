@@ -74,3 +74,4 @@ console.log("PAYE Amount:Ksh"+payeAmount);
 console.log("Fringe Benefit Tax(KRA)amount:Ksh"+KRA);
 console.log("NSSFDdeductions:Ksh"+NSSFDdeductions);
 console.log("NHIFDeduction:Ksh"+NHIFDeductions);
+console.log("NET salary:Ksh"+netSalary);
