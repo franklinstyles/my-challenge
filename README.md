@@ -1,21 +1,22 @@
-STUDENT GRADE GENERATOR
-first.js
+#PHASE 1 CODE CHALLENGE 1:
 
-This is a program that genererates the grades of students.when you place a scores the pragram operates and grades it .The program only works when you place a score in.this program is run by javascript and you can access it on vs code.i will share a link and you will clone it and after that you type code . and you will be able to access the program.you write the score where there is the second last line of code in between the brackets.
+##STUDENT GRADE GENRATOR(Toy problem)
 
-SPEED DETECTOR
-second.js
+###Date:30-7-2024
+###By:Franklin Ndegwa
 
-this a program that can derive points to drivers who ecxeed past the speed limit.this program operates in a way that it reads the speed that is placed in the prgram. if the speed is below the speed limit it will read Ok!,but if the speed is above the speed limit it gives points according to every 5m/s past the speed limit.when the points pass 12 points the drivers license is suspended.
+Description;
+It is a javascript driven program that runs scores and gives output of the grades after a scores has been input.The input should range from 0 to 100 only.Any other input above the range of 0 to 100 will automatically be null and will not function properly.The output should correspond to the grades:A>79,B-60 to 79,C- 59 to 49,D- 40 to 49,E-less 40.
 
-NET SALARY CALCULATOR
-third.js
+##SPEED DETECTOR.
+###Date:30-7-2024
+Description;
+This is a javascript program that operates in a way that it can read the speed of a car according to the spped limit.the speed limit is set to seventy.When the speed is below the speed limit the program will read OK!.When the input of speed is above the speed limit it will give points.The points are given according to every 5m/s past the speed limit.When the points are past 12points it will read License Suspended ,becuase the license will have been suspended.
 
-this is a program that calculates the net salary of person .when you place your basesalary the program will calculate your netsalary.
+##NET SALARY CALCULATOR.
+###Date:30-7-2024
+Description;
+This is a javascript program that functions in a way that it calculates the net salary by calculating your NHIFdeductions ,Gross salary,Paye,NSSFdeductions and tax .
 
-ACCESSING THE PROGRAMS
-use this url:
-https://github.com/franklinstyles/my-challenge
-you can go to your terminal and clone it and you can access it on your vs code.
-
-BY:Franlin Ndegwa/
+###HOW TO ACCESS ALL PROGRAMS.
+You git clone on your git hub using this, url:https://github.com/franklinstyles/my-challenge
