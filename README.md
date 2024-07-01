@@ -23,5 +23,6 @@ This is a javascript program that operates in a way that it can read the speed o
 Description;
 This is a javascript program that functions in a way that it calculates the net salary by calculating your NHIFdeductions ,Gross salary,Paye,NSSFdeductions and tax .
 
-###HOW TO ACCESS ALL PROGRAMS.
+### HOW TO ACCESS ALL PROGRAMS.
+
 You git clone on your git hub using this, url:https://github.com/franklinstyles/my-challenge
