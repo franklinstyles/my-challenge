@@ -30,5 +30,5 @@ function number(n) {
    }
    return 'You Entered:' +n
 }
-const myNumber = number(120);
+const myNumber = number();
 console.log(myNumber)
